@@ -7,7 +7,7 @@
 - 🌱 Because I studied at Mircroverse for about a year I am easily able to collaborate with other developers from around the world and work on projects together remotely.
 - 💬 I'm constantly learning and improving on new software tools & technologies
 - 📫 Graduated as English Professor from I del R , Argentina.
-- ⚡ My hobbies are playing musical instruments specially guitar and listening to soul-touching songs
+- ⚡ My hobbies are reading books, working out and playing musical instruments specially guitar and listening to soul-touching songs
 - 👯 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastian-solis-2712731a5/)
 
 <p align="center">&nbsp;
