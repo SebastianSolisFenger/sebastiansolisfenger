@@ -6,7 +6,7 @@
 - 🔭 I'm interested in developing software applications to solve real-world problems
 - 🌱 Because I studied at Mircroverse for about a year I am easily able to collaborate with other developers from around the world and work on projects together remotely.
 - 💬 I'm constantly learning and improving on new software tools & technologies
-- 📫 A graduate of Computer Science from Addis Ababa University, Ethiopia.
+- 📫 Graduated as English Professor from I del R , Argentina.
 - ⚡ My hobbies are playing musical instruments specially guitar and listening to soul-touching songs
 - 👯 How to reach me: [LinkedIn](https://www.linkedin.com/in/wuletaw-wonte/)
 
