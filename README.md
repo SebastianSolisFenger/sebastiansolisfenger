@@ -1,4 +1,4 @@
-### Hello there, I'm Sebastian Solis.
+### Hi there, I'm Sebastian Solis Fenger.
 #### Full-stack Software Engineer.
 
 <h2>👋 About Me</h2>
