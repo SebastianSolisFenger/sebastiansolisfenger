@@ -1,12 +1,16 @@
 ### Hi there, I'm Sebastian Solis Fenger. 👋
 #### Full-stack Software Engineer.
 
-const sebastianSolis = {
+# Little More About Me
+
+```javascript
+const sebastianSolisFenger = {
   lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
-  }
-
-<h2>About Me</h2>
+  code: [Ruby on Rails, Javascript, React&Redux, HTML/CSS, Bootstrap],
+  challenge: "I am a fast learner Developer",
+}
+```
 
 - 🔭 I'm interested in developing software applications to solve real-world problems
 - 🌱 Because I studied at Mircroverse for about a year I am easily able to collaborate with other developers from around the world and work on projects together remotely.
