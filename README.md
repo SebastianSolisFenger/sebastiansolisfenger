@@ -1,6 +1,11 @@
 ### Hi there, I'm Sebastian Solis Fenger. 👋
 #### Full-stack Software Engineer.
 
+const sebastianSolis = {
+  lookingFor: "Front-End developer" || "Back-End developer",
+  pronouns: ["he", "his"],
+  }
+
 <h2>About Me</h2>
 
 - 🔭 I'm interested in developing software applications to solve real-world problems
