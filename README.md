@@ -7,8 +7,6 @@
 const SEBASTIAN = {
   lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript, React&Redux, HTML/CSS, Bootstrap],
-  challenge: "I am a fast learner Developer",
 }
 ```
 
