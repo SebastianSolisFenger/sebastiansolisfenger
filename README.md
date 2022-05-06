@@ -1,14 +1,14 @@
 ### Hi there, I'm Sebastian Solis Fenger. 👋
 #### Full-stack Software Engineer.
 
-# Little More About Me
-
+# About Me
+<!-- 
 ```javascript
 const SEBASTIAN = {
   lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
 }
-```
+``` -->
 
 - 🔭 I'm interested in developing software applications to solve real-world problems.
 - 🌱 As I studied at Mircroverse for about a year, I am easily able to collaborate with other developers from around the world and work on projects together remotely.
