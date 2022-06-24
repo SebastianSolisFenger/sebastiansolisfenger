@@ -26,7 +26,7 @@ const SEBASTIAN = {
 - 💬 I'm constantly learning and improving on new software tools & technologies.
 - 📫 Former English professor.
 - ⚡ My hobbies are reading books, working out and playing musical instruments, especially guitar, and listening to soul-touching songs.
-- 👯 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastian-solis-fenger-2712731a5)
+- 👯 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastiansolisfenger/)
 
 <p align="center">&nbsp;
  
