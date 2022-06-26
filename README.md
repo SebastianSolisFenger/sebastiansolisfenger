@@ -36,9 +36,6 @@ const SEBASTIAN = {
 </p> -->
   
   <h1 align="center"> Stats </h1>
-<br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sebastiansolisfenger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -55,6 +52,9 @@ const SEBASTIAN = {
     </a>
   </div>
 </p>
+<br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sebastiansolisfenger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br>
 
   
   
